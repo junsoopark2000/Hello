@@ -1,3 +1,6 @@
 this is the 2nd file
 
 birth day : 19990
+
+
+adding birth place

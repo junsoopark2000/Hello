@@ -5,3 +5,6 @@ I changed my file
 
 
 birth day : 2009.191010
+
+
+adding birth place
